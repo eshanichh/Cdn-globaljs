@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html amp lang="id-ID">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QQGARUDA777: Situs Slot Gacor Online Sekali Main Langsung Buat Kantong Gak Pernah Kosong</title>
+    <meta name="description"
+        content="QQGARUDA777 adalah situs slot gacor online terpercaya yang menawarkan pengalaman seru sekali main langsung memberikan peluang hasil maksimal hari ini. Temukan link slot777 terbaru di tahun 2026 yang didukung sistem permainan adil, live RTP tinggi, dan infrastruktur server modern untuk memastikan kenyamanan bermain sepanjang hari." />
+    <meta name="robots" content="index,follow" />
+    <link href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLfUpYXY01fBuD_WTBZ5ukN-D4leBv_s3BbawndOCoOb0mih9gOeP-tC4HJh_-u39p1f07Z0mV6JKcO2sGy0r3D9JP6HPi0b0wTTntDb2XJ9gPK9VcC5pTs1GEoFjOe1pt5lnAVSa4_LSYlSgxFy4FTNjLWty5oAUPTHNVbAOcZAVVmgbKZTQ8qo-LIZc/s1600/favicon.webp" rel="shortcut icon"
+        type="image/x-icon" />
+    <link rel="canonical" href="https://www.eisenwurzen.info/" />
+    <link rel="alternate" href="https://www.eisenwurzen.info/" hreflang="id" />
+    <meta property="og:site_name" content="QQGARUDA777" />
+    <meta property="og:image:alt" content="QQGARUDA777" />
+    <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU8am5PAAJCBq_K5AEeNve7m3RqZDatGsBXe8VdGaoDCEoaoN_g4jYb-8xDwBiPgprIYm7G2WIU0HqW9Whm2be4y9muKXA0jHpmkMLnHN10TyB-BLn8Zi1XJ1p8YJ_rrBKYCJn1vTQJTTKETFD7KWEY8osdvvuc6-0sexU-1U212Hv7sXV3C7gq1Ri6GE/s1024/slot777-slot-gacor-online.webp" />
+
+    <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js" />
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden
+            }
+
+            to {
+                visibility: visible
+            }
+        }
+    </style>
+    <noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none
+            }
+        </style>
+    </noscript>
+
+    <style amp-custom>
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Playfair Display', serif; /* Ganti dengan font serif yang lebih elegan */
+    position: relative;
+    background: #1a0f1e; /* Ungu tua yang sangat gelap */
+    background-image: radial-gradient(#3c2a4d 5%, transparent 50%); /* Titik-titik ungu yang lebih hangat */
+    background-size: 5px 5px;
+    background-attachment: fixed;
+  }
+
+  .container {
+    max-width: 400px;
+    height: 100vh;
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .welcome {
+    max-width: 350px;
+    margin: 0 auto;
+  }
+
+  .welcome h1 {
+    font-size: 14px; /* Sedikit lebih besar untuk keterbacaan */
+    color: #e6e0d4; /* Krem/cokelat muda yang sangat pucat */
+    overflow: hidden;
+    border-right: .15em solid #c4a77d; /* Emas kecokelatan untuk kursor */
+    white-space: nowrap;
+    letter-spacing: .09em;
+    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from {
+      width: 0
+    }
+    to {
+      width: 100%
+    }
+  }
+
+  @keyframes blink-caret {
+    from, to {
+      border-color: transparent
+    }
+    50% {
+      border-color: #c4a77d;
+    }
+  }
+
+  .banner {
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5); /* Tambahkan bayangan untuk kedalaman */
+  }
+
+  .btn-login {
+    padding: 12px; /* Sedikit lebih besar */
+    color: #fff; /* Teks putih agar kontras */
+    font-size: 18px; /* Sedikit lebih kecil agar lebih halus */
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    background: linear-gradient(to bottom, #7e57c2 100%, #5e35b1 0%); /* Gradasi ungu menengah */
+    margin-top: 15px;
+    border-radius: 25px; /* Lebih membulat untuk kesan modern */
+    position: relative;
+    z-index: 2;
+    box-shadow: 0 0 15px rgba(126, 87, 194, 0.6); /* Cahaya ungu lembut */
+    transition: all 0.3s ease; /* Tambahkan transisi halus */
+  }
+
+  .btn-login:hover {
+    box-shadow: 0 0 20px rgba(126, 87, 194, 0.8);
+    transform: translateY(-2px); /* Efek melayang saat hover */
+  }
+
+  .btn-daftar {
+    padding: 12px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    background: linear-gradient(to bottom, #8d6e63 100%, #6d4c41 0%); /* Gradasi cokelat hangat */
+    margin-top: 15px;
+    border-radius: 25px;
+    position: relative;
+    z-index: 2;
+    box-shadow: 0 0 15px rgba(141, 110, 99, 0.6); /* Cahaya cokelat lembut */
+    transition: all 0.3s ease;
+  }
+
+  .btn-daftar:hover {
+    box-shadow: 0 0 20px rgba(141, 110, 99, 0.8);
+    transform: translateY(-2px);
+  }
+
+  .copyright {
+    text-align: center;
+    color: #ffffff70; /* Putih transparan agar lebih redup */
+    font-size: 10px;
+    margin-top: 20px;
+  }
+
+  .nagaterbang {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    opacity: 0.2; /* Buat naga lebih halus dan menyatu dengan latar */
+  }
+</style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <center><a href="https://qqgaruda777-slot777-login.pages.dev/"><amp-img id="image" class="animated tada infinite slower"
+                        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginMfODbvcFfN8wVlwcmwFHWAXwswkFE6zhjIGzqKocDB3ZawxApnhPg8QM6enHUvAwy5s_WQn8yGri5OADvv2QGmFSaLR7cT1KL5_k_J4SNZn-KQ8K3J2SWwpDOh8RBHLYjie4y2AlBjrhfCrRgj4wbvOlmYlAXUopQ8Zakn6uVTpK6nDeZOIGjc9BE0/s320/logo.webp"
+                        alt="QQGARUDA777" width="300" height="100" layout="intrinsic"></amp-img></a>
+        </header>
+        <div class="welcome">
+            <h1>Cari Kami Di Google : QQGARUDA777</h1>
+        </div>
+
+        <amp-img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU8am5PAAJCBq_K5AEeNve7m3RqZDatGsBXe8VdGaoDCEoaoN_g4jYb-8xDwBiPgprIYm7G2WIU0HqW9Whm2be4y9muKXA0jHpmkMLnHN10TyB-BLn8Zi1XJ1p8YJ_rrBKYCJn1vTQJTTKETFD7KWEY8osdvvuc6-0sexU-1U212Hv7sXV3C7gq1Ri6GE/s1024/slot777-slot-gacor-online.webp" width="600"
+            height="600" layout="intrinsic" class="banner"></amp-img>
+
+        <a href="https://qqgaruda777-slot777-login.pages.dev/" target="_blank" rel="noreferrer noopener" role="button"
+            class="btn-login">DAFTAR</a>
+        <a href="https://qqgaruda777-slot777-login.pages.dev/" target="_blank" rel="noreferrer noopener" role="button"
+            class="btn-daftar">LOGIN</a>
+
+        <p class="copyright">©  All Rights Reserved <a style="color: #ffd900;" href="https://www.eisenwurzen.info/">QQGARUDA777</a> © SEO NEWBIE</p>
+    </div>
+
+</body>
+
+</html>
