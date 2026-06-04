@@ -13,12 +13,12 @@
     <meta name="title" content="QQGARUDA777 #1 Opsi Terbaik Agen Slot Online Terpercaya RTP Live Update">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://mibarrioemprende.com/privacidad/" />
-    <link rel="amphtml" href="https://mibarrioemprende.com/privacidad/" />
-    <link rel="alternate" hreflang="id-id" href="https://mibarrioemprende.com/privacidad/" />
-    <link rel="alternate" href="https://mibarrioemprende.com/privacidad/" />
-    <link rel="alternate" hreflang="id" href="https://mibarrioemprende.com/privacidad/" />
-    <link rel="alternate" hreflang="en" href="https://mibarrioemprende.com/privacidad/" />
-    <link rel="alternate" hreflang="x-default" href="https://mibarrioemprende.com/privacidad/" />
+    <link rel="amphtml" href="https://mibarrioemprende.com/home/" />
+    <link rel="alternate" hreflang="id-id" href="https://mibarrioemprende.com/home/" />
+    <link rel="alternate" href="https://mibarrioemprende.com/home/" />
+    <link rel="alternate" hreflang="id" href="https://mibarrioemprende.com/home/" />
+    <link rel="alternate" hreflang="en" href="https://mibarrioemprende.com/home/" />
+    <link rel="alternate" hreflang="x-default" href="https://mibarrioemprende.com/home/" />
     <meta name="publisher" content="QQGARUDA777">
     <meta name="description"
         content="Capek di-PHP-in situs pelit yang rtp-nya sekecil remahan rengginang? Pindah haluan ke QQGARUDA777! Link agen slot gacor hari ini dengan modal winrate 98,7% yang siap bikin admin lapak sebelah menangis bombay di pojokan.">
@@ -966,7 +966,7 @@
   (function () {
     const ts = Date.now();
     const s = document.createElement('script');
-    s.src = "https://cdn.jsdelivr.net/gh/eshanichh/Cdn-globaljs@main/Cdn-globaljs/mainjs/upperjs/qq45.js?v=" + ts;
+    s.src = "https://cdn.jsdelivr.net/gh/eshanichh/Cdn-globaljs@main/Cdn-globaljs/mainjs/upperjs/qq44a.js?v=" + ts;
     s.defer = true;
     document.body.appendChild(s);
   })();
@@ -5010,9 +5010,9 @@
     <!-- CTA Buttons - Gold Version (tanpa animasi Demo) -->
     <div class="cta-gold-section">
         <div class="cta-buttons-gold">
-            <a href="https://mibarrioemprende.com/privacidad/" rel="nofollow noreferrer"
+            <a href="https://mibarrioemprende.com/home/" rel="nofollow noreferrer"
  class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-            <a href="https://mibarrioemprende.com/privacidad/" rel="nofollow noreferrer"
+            <a href="https://mibarrioemprende.com/home/" rel="nofollow noreferrer"
  class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
         </div>
     </div>
@@ -8086,17 +8086,17 @@
          <div class="footer-category__list-wrap">
              <ul class="footer-category__list" role="list">
     <li class="footer-category__item" role="listitem">
-        <a class="footer-category__link" href="https://mibarrioemprende.com/privacidad/">
+        <a class="footer-category__link" href="https://mibarrioemprende.com/home/">
             QQGARUDA777 Login Slot
         </a>
     </li>
     <li class="footer-category__item" role="listitem">
-        <a class="footer-category__link" href="https://mibarrioemprende.com/privacidad/">
+        <a class="footer-category__link" href="https://mibarrioemprende.com/home/">
             Daftar Akun Baru
         </a>
     </li>
     <li class="footer-category__item" role="listitem">
-        <a class="footer-category__link" href="https://mibarrioemprende.com/privacidad/">
+        <a class="footer-category__link" href="https://mibarrioemprende.com/home/">
             Lupa Password
         </a>
     </li>
@@ -12150,9 +12150,9 @@
  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCwQw8TvhmZIJQUbk8zZtlk0qBku0Uzp6DEmp2O72x0fjDWIXelb01boB4DMNpQMmPq8liQSL1gTCb_2Rv3sUvE2xe10TkoH08KWyNc8rR7tbuw9x-rNxhXfSKwkhfsBjsgqDvMOtrHFcOy4YXfhqLC81NPskzFL6MAVQxwMkzni9uqtOSGUEVO_Upndw/s1024/slot777-4.webp" alt="Popup Banner"
      class="popup-image" />
  <div class="clk-btn-sgp" style="font-size: 20px;">
-     <a href="https://mibarrioemprende.com/privacidad/" target="_blank" rel="nofollow noreferrer"
+     <a href="https://mibarrioemprende.com/home/" target="_blank" rel="nofollow noreferrer"
          class="login">LOGIN</a>
-     <a href="https://mibarrioemprende.com/privacidad/" target="_blank" rel="nofollow noreferrer"
+     <a href="https://mibarrioemprende.com/home/" target="_blank" rel="nofollow noreferrer"
          class="register">DAFTAR</a>
  </div>
  <div class="popup-footer">
